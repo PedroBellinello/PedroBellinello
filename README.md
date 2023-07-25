@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PedroBellinello](https://github.com/PedroBellinello)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/pedro-bellinello-4206b3197/](https://www.linkedin.com/in/pedro-bellinello-4206b3197/)
+- 📝 My Linkedin on [https://www.linkedin.com/in/pedro-bellinello-4206b3197/](https://www.linkedin.com/in/pedro-bellinello-4206b3197/)
 
 - 💬 Ask me about **Vuejs Html Css**
 
