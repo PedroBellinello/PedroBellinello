@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PedroBellinello](https://github.com/PedroBellinello)
 
+- 📝 I regularly write articles on [https://www.linkedin.com/in/pedro-bellinello-4206b3197/](https://www.linkedin.com/in/pedro-bellinello-4206b3197/)
+
 - 💬 Ask me about **Vuejs Html Css**
 
 - 📫 How to reach me **pedrobellinello@gmail.com**
@@ -17,8 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/bellinello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bellinello" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pedro-bellinello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-bellinello" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pedro bellinello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro bellinello" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
