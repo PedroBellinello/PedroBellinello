@@ -9,7 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PedroBellinello](https://github.com/PedroBellinello)
 
-- 💬 Ask me about **Vuejs Html Css**
 
 - 📫 How to reach me **pedrobellinello@gmail.com**
 
