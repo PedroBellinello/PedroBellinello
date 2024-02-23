@@ -1,21 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pedro Bellinello</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrobellinello" alt="pedrobellinello" /></a> </p>
 
-- 🔭 I’m currently working on [ProjetoTmdb](https://github.com/PedroBellinello/ProjetoTmdb)
+-  I’m currently learning ** Vuejs React**
 
-- 🌱 I’m currently learning **Flutter Vuejs React**
+-  All of my projects are available at [https://github.com/PedroBellinello](https://github.com/PedroBellinello)
 
-- 👨‍💻 All of my projects are available at [https://github.com/PedroBellinello](https://github.com/PedroBellinello)
+-  My Linkedin on [https://www.linkedin.com/in/pedro-bellinello-4206b3197/](https://www.linkedin.com/in/pedro-bellinello-4206b3197/)
 
-- 📝 My Linkedin on [https://www.linkedin.com/in/pedro-bellinello-4206b3197/](https://www.linkedin.com/in/pedro-bellinello-4206b3197/)
-
-- 💬 Ask me about **Vuejs Html Css**
-
-- 📫 How to reach me **pedrobellinello@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HSRW2uqf_RJ73Gg2G-kkhpX4MWTHWQ-_/view?usp=sharing](https://drive.google.com/file/d/1HSRW2uqf_RJ73Gg2G-kkhpX4MWTHWQ-_/view?usp=sharing)
+-  How to reach me **pedrobellinello@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
